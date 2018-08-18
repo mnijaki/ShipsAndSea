@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro", "Unity.TextMeshPro.csproj", "{07A21C90-D344-AE1A-8456-9910C203B41A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipsAndSea.Plugins", "ShipsAndSea.Plugins.csproj", "{E9D29D1B-2522-16D1-E84C-3AE13354F8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipsAndSea", "ShipsAndSea.csproj", "{7E0CEE4C-732C-E0EC-E690-300543D76606}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PackageManagerUI.Editor", "Unity.PackageManagerUI.Editor.csproj", "{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro.Editor", "Unity.TextMeshPro.Editor.csproj", "{3A848AB7-9891-EDDA-D555-BF184C2F81F4}"
@@ -19,6 +23,14 @@ Global
 		{07A21C90-D344-AE1A-8456-9910C203B41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A21C90-D344-AE1A-8456-9910C203B41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A21C90-D344-AE1A-8456-9910C203B41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D29D1B-2522-16D1-E84C-3AE13354F8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D29D1B-2522-16D1-E84C-3AE13354F8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D29D1B-2522-16D1-E84C-3AE13354F8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D29D1B-2522-16D1-E84C-3AE13354F8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0CEE4C-732C-E0EC-E690-300543D76606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0CEE4C-732C-E0EC-E690-300543D76606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0CEE4C-732C-E0EC-E690-300543D76606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0CEE4C-732C-E0EC-E690-300543D76606}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
